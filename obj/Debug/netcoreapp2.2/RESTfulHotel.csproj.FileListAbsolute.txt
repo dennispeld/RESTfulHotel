@@ -1,0 +1,14 @@
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\bin\Debug\netcoreapp2.2\RESTfulHotel.deps.json
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\bin\Debug\netcoreapp2.2\RESTfulHotel.runtimeconfig.json
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\bin\Debug\netcoreapp2.2\RESTfulHotel.runtimeconfig.dev.json
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\bin\Debug\netcoreapp2.2\RESTfulHotel.dll
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\bin\Debug\netcoreapp2.2\RESTfulHotel.pdb
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.RazorAssemblyInfo.cache
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.RazorAssemblyInfo.cs
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.RazorTargetAssemblyInfo.cache
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.dll
+C:\Users\denis\OneDrive\Developer\RESTfulHotel\obj\Debug\netcoreapp2.2\RESTfulHotel.pdb

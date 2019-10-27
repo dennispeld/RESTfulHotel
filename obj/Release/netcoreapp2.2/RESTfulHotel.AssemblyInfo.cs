@@ -8,7 +8,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dennis Peld")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Dennis Peld")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("The RESTfulHotel is a Web API project, that implements a web service with GET req" +
 "uest, which imports a json file with hotel rates, filters the list by means of t" +

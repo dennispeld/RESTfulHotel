@@ -28,7 +28,7 @@ When you call each one of those 3 methods, at first the method InitHotels() is c
 One of the major problems was the search by ArrivalDate, because of the Date format. For this, I wrote an extra method formatArrivalDate(string arrDateString), that formats it the way it is used in json file.
 		
 ### Testing
-For testing I have used a Postman program [www.getpostman.com] installed locally.  
+For testing I have used a Postman program installed locally.  
 
 Three different scenarios were tested:
 1. Search by HotelID  
@@ -43,12 +43,15 @@ ArrivalDate = 16.03.2016 (also works with such formats 16/03/2016 and 2016-03-16
 HotelID = 7294  
 ArrivalDate = 15.03.2016
 
-### Usage
+### Usage and test cases
 1. Clone the project
 2. Run the project
-3. Open Postman program and type the API URL that you want to test
-4. Select the proper method (GET or POST)
-5. Hit Send button
+3. Open Postman program [www.getpostman.com] and type the API URL that you want to test
+4. Select GET method  
+5. Type https://localhost:5001/api/hotels and hit Send button to retrieve all hotels and ratings
+6. Type https://localhost:5001/api/hotels/7294 and hit Send button to retrieve a hotel with id 7294 and its ratings
+7. Type https://localhost:5001/api/hotels/arrival/16.03.2016 and hit Send button to retrieve hotels that have ratings with the arrival date of 16.03.2016
+8. Type https://localhost:5001/api/hotels/7294/arrival/15.03.2016 and hit Send button to retrieve a hotel with the id 7294 and ratings with the arrival date of 16.03.2016
 
 Author: Dennis Peld  
 Language: C#, .NET Core 2.2  
