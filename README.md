@@ -41,7 +41,7 @@ ArrivalDate = 15.03.2016
 
 ### Usage and test cases
 1. Clone the project
-2. Run the project (using RESTfulHotel lounch settings profile)
+2. Run the project (using RESTfulHotel launch settings profile)
 3. Open Postman program [www.getpostman.com] and type the API URL that you want to test
 4. Select GET method  
 5. Type https://localhost:5001/api/hotels and hit Send button to retrieve all hotels and ratings
